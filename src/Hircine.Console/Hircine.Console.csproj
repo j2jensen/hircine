@@ -93,6 +93,9 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
+    <Reference Include="Xemio.RavenDB.NGramAnalyzer">
+      <HintPath>..\..\packages\Xemio-RavenDB-NGramAnalyzer.1.0.2\lib\net40\Xemio.RavenDB.NGramAnalyzer.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="..\SharedAssemblyInfo.cs">
